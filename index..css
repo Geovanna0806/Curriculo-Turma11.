@@ -1,0 +1,33 @@
+h1{color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size:x-large;
+text-align:center
+
+}
+
+p{
+color:#1117;
+width:100px;
+height:100px;
+padding-left:16px;
+padding-right:16px;
+padding-top:16;
+padding-bottom:15px;
+
+}
+
+#botao-bonito{
+color: rgba(14, 14, 14, 0.904);
+padding-left:   35px;
+padding-top : 15 px;
+padding-bottom: 15px;
+padding-right: 15px;
+background: color #585757;
+align-items: center;
+
+
+}
+
+
+
+
